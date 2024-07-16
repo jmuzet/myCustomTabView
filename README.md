@@ -2,12 +2,6 @@
 
 This repository provides you with one example on how to implement macOS settings look on customized TabView.
 
-<br>
-
-<a ref="https://github.com/jmuzet/myCustomTabView/blob/main/pic/myCustomTabView.png"><img align="right" src="https://github.com/jmuzet/myCustomTabView/blob/main/pic/myCustomTabView.png"></a>
-
-<br>
-
 ## Xcode 15 on Sonoma
 
     - Tested on macOS Sonoma 14.5
@@ -16,3 +10,9 @@ This repository provides you with one example on how to implement macOS settings
 ## Colors
 
 Colors are just the one from orginal macOS settings, using both light and dark mode.
+
+<br>
+
+<img align="right" src="https://github.com/jmuzet/myCustomTabView/blob/main/pic/myCustomTabView.png">
+
+<br>
