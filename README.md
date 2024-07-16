@@ -2,7 +2,7 @@
 
 This repository provides you with one example on how to implement macOS settings look on customized TabView.
 
-## Outcome
+<hr>
 
 <a ref="https://github.com/jmuzet/myCustomTabView/blob/main/pic/myCustomTabView.png"><img align="right" src="https://github.com/jmuzet/myCustomTabView/blob/main/pic/myCustomTabView.png"></a>
 
