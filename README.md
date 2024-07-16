@@ -1,6 +1,8 @@
 # myCustomTabView for macOS (and iOS)
 
-This repository provides you with one example on how to implement macOS settings look on other TabView.
+This repository provides you with one example on how to implement macOS settings look on customized TabView.
+
+## Outcome
 
 <img align="right" src="https://github.com/jmuzet/myCustomTabView/blob/main/pic/myCustomTabView.png">
 
