@@ -2,6 +2,8 @@
 
 This repository provides you with one example on how to implement macOS settings look on other TabView.
 
+<img align="right" src="https://github.com/jmuzet/myCustomTabView/blob/main/pic/myCustomTabView.png">
+
 ## Xcode 15 on Sonoma
 
     - Tested on macOS Sonoma 14.5
